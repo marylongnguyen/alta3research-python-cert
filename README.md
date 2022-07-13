@@ -12,11 +12,7 @@ on a live system.
 
 ### Prerequisites
 
-What things are needed to install the software and how to install them. For now, maybe copy in
-"how to install python and python3 using apt."
-
-install python3 by using:
-$ sudo apt install python3-pip -y
+This program requires [python3](https://wiki.python.org/moin/BeginnersGuide/Download). Proceed to the link for instructions on how to install.
 
 install crayons library by using:
 $ pip install crayons
