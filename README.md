@@ -10,16 +10,14 @@ These instructions will get you a copy of the project up and running on your loc
 for development and testing purposes. See deployment for notes on how to deploy the project
 on a live system.
 
-### Prerequisites
+## Prerequisites
 
-This program requires [python3](https://wiki.python.org/moin/BeginnersGuide/Download). Proceed to the link for instructions on how to install.
-
-install crayons library by using:
-$ pip install crayons
+* This program requires [python3](https://wiki.python.org/moin/BeginnersGuide/Download). Proceed to the URL for instructions on how to install.
+* This program also utilizes the crayons library. Install the crayons library by using: *$ pip install crayons*
 
 ## Built With
 
-* [Python](https://www.python.org/) - The coding language used
+* [Python](https://www.python.org/)
 
 ## Authors
 
